@@ -14,7 +14,7 @@ public class MaxElement {
 
     System.out.println("Enter numbers: ");
     for (int index = 0; index < numbers.length; index++) {
-      numbers [index] = input.nextDouble();
+      numbers[index] = input.nextDouble();
     }
 
     double maxNumber = numbers[0];

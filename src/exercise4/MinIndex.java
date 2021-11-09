@@ -14,7 +14,7 @@ public class MinIndex {
 
     System.out.println("Enter numbers: ");
     for (int index = 0; index < numbers.length; index++) {
-      numbers [index] = input.nextDouble();
+      numbers[index] = input.nextDouble();
     }
 
     int minIndex = 0;
