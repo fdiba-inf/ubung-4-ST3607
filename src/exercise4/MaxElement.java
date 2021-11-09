@@ -23,7 +23,7 @@ public class MaxElement {
         maxNumber = numbers[index];
       }
     }
-    System.out.println("Max numbers: " + maxNumber);
+    System.out.println("Max number: " + maxNumber);
   }
 
 }
